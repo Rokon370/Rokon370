@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Rokon
-![](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-1/492655091_2038056640053702_3491142038434079587_n.jpg?stp=dst-jpg_s160x160_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeF4PZpQASFsKMiOeELE1oDgi-C_xJfBOSCL4L_El8E5IHREDPiSKy4oMsQkercXMpYHpbfCT-vMDmo0eLRk0gje&_nc_ohc=SIDvDlbBMc0Q7kNvwHd17th&_nc_oc=Adl0Uo-5xp44mRT3OvqEhjCK3qG-oGm0p9LTyQa3b-3_gXRBAJsYqkqM-RXV-NKqv9w&_nc_zt=24&_nc_ht=scontent.fdac24-4.fna&_nc_gid=_t3U3BudDhfRxdMge6WUhQ&oh=00_AfGQTfrNkC_HB1GDQAsGVp95iMk_6qm2OdM-bizsBFuKBg&oe=6816C4CF)
+![](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-1/492655091_2038056640053702_3491142038434079587_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=GmDaKBu3YIsQ7kNvwE9DpWP&_nc_oc=AdnDlzrGocYGzkm1ge2B4EuqQvNE0ndQZclc7sYqGcgCUxfP5rhtdl1RSeN5qWJj-0Y&_nc_zt=24&_nc_ht=scontent.fdac24-4.fna&_nc_gid=oWxZZtv7FBy_ecJwi7qzvQ&oh=00_AfG1CiO8JFDhaAnbS5eFb42hk8uGjA5sLfizEsXyy7rTyQ&oe=6818BF0F)
 
-A  PASSIONATE  LEARNER
+A PASSIONATE LEARNER
 
 Skills: C, C++, DSA, Python for Machine Learning, NLP & Generative AI
 
 - 🌱 I’m currently learning C, C++, DSA, Python for Machine Learning, NLP & Generative AI 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on github 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rokon370)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rokon-8a8946354/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1BHKogUJ9Q/)  
